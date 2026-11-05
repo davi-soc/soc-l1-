@@ -1,3 +1,12 @@
+
+
+🟡 Near completion — final adjustments and SIEM
+investigation documentation in progress.
+
+
+
+
+
 # 🏠 ImoveisHub — SOC L1 Security Lab
 
 > *"Today anyone can build a website with AI in a few hours."*  
